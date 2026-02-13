@@ -1,8 +1,6 @@
 <h1 align="center">Hola 👋 Soy Javier</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F72E&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Backend+con+Django+%26+DRF;Angular+%7C+JWT+%7C+APIs+REST;Construyendo+proyectos+reales+🚀" />
-</p>
+
 
 ---
 
@@ -40,8 +38,7 @@
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 <img src="https://img.shields.io/badge/Django_REST_Framework-red?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ---
@@ -76,23 +73,6 @@
 - Uso básico de control de versiones con Git
 - Gestión de repositorios en GitHub
 - Entornos locales con XAMPP
-
----
-
-## 📊 Estadísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=radical" />
-</p>
-
----
-
-## 🔥 Racha de commits
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=TUUSUARIO&theme=radical" />
-</p>
 
 ---
 
